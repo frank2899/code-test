@@ -1,0 +1,1 @@
+//export different types of modals
